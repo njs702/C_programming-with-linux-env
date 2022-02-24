@@ -1,0 +1,55 @@
+The system is: Linux - 4.4.0-19041-Microsoft - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/mnt/c/Users/USER/project/cmake_practice/CMakeFiles/3.16.3/CompilerIdC/a.out"
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/mnt/c/Users/USER/project/cmake_practice/CMakeFiles/3.16.3/CompilerIdCXX/a.out"
+
+Determining if the C compiler works passed with the following output:
+Change Dir: /mnt/c/Users/USER/project/cmake_practice/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f1a8f/fast && /usr/bin/make -f CMakeFiles/cmTC_f1a8f.dir/build.make CMakeFiles/cmTC_f1a8f.dir/build
+make[1]: Entering directory '/mnt/c/Users/USER/project/cmake_practice/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_f1a8f.dir/testCCompiler.c.o
+/usr/bin/cc    -o CMakeFiles/cmTC_f1a8f.dir/testCCompiler.c.o   -c /mnt/c/Users/USER/project/cmake_practice/CMakeFiles/CMakeTmp/testCCompiler.c
+Linking C executable cmTC_f1a8f
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_f1a8f.dir/link.txt --verbose=1
+/usr/bin/cc      -rdynamic CMakeFiles/cmTC_f1a8f.dir/testCCompiler.c.o  -o cmTC_f1a8f 
+make[1]: Leaving directory '/mnt/c/Users/USER/project/cmake_practice/CMakeFiles/CMakeTmp'
+
+
+
+Determining if the CXX compiler works passed with the following output:
+Change Dir: /mnt/c/Users/USER/project/cmake_practice/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_5299a/fast && /usr/bin/make -f CMakeFiles/cmTC_5299a.dir/build.make CMakeFiles/cmTC_5299a.dir/build
+make[1]: Entering directory '/mnt/c/Users/USER/project/cmake_practice/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_5299a.dir/testCXXCompiler.cxx.o
+/usr/bin/c++     -o CMakeFiles/cmTC_5299a.dir/testCXXCompiler.cxx.o -c /mnt/c/Users/USER/project/cmake_practice/CMakeFiles/CMakeTmp/testCXXCompiler.cxx
+Linking CXX executable cmTC_5299a
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5299a.dir/link.txt --verbose=1
+/usr/bin/c++       -rdynamic CMakeFiles/cmTC_5299a.dir/testCXXCompiler.cxx.o  -o cmTC_5299a 
+make[1]: Leaving directory '/mnt/c/Users/USER/project/cmake_practice/CMakeFiles/CMakeTmp'
+
+
+

@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/mnt/c/Users/USER/project/cmake_practice/build",
+  "command": "gcc  -I/mnt/c/Users/USER/project/cmake_practice/include -I/mnt/c/Users/USER/project/cmake_practice/driver/include  -DDEBUG -DC_FLAGS   -g -Wall -o CMakeFiles/andromeda-0.1.out.dir/main.c.o   -c /mnt/c/Users/USER/project/cmake_practice/main.c",
+  "file": "/mnt/c/Users/USER/project/cmake_practice/main.c"
+},
+{
+  "directory": "/mnt/c/Users/USER/project/cmake_practice/build",
+  "command": "gcc  -I/mnt/c/Users/USER/project/cmake_practice/include -I/mnt/c/Users/USER/project/cmake_practice/driver/include  -DDEBUG -DC_FLAGS   -g -Wall -o CMakeFiles/andromeda-0.1.out.dir/src/add.c.o   -c /mnt/c/Users/USER/project/cmake_practice/src/add.c",
+  "file": "/mnt/c/Users/USER/project/cmake_practice/src/add.c"
+}
+]

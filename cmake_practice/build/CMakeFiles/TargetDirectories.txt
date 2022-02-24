@@ -1,0 +1,3 @@
+/mnt/c/Users/USER/project/cmake_practice/build/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/USER/project/cmake_practice/build/CMakeFiles/edit_cache.dir
+/mnt/c/Users/USER/project/cmake_practice/build/CMakeFiles/andromeda-0.1.out.dir
