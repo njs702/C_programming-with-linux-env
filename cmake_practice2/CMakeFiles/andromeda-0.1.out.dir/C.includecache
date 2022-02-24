@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/mnt/c/Users/USER/project/cmake_practice2/headers/func.h
+
+/mnt/c/Users/USER/project/cmake_practice2/main.c
+stdio.h
+-
+headers/func.h
+/mnt/c/Users/USER/project/cmake_practice2/headers/func.h
+
+/mnt/c/Users/USER/project/cmake_practice2/src/func2.c
+
